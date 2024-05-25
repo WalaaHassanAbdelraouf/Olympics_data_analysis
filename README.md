@@ -6,7 +6,7 @@ This project analyzes Olympic Games data to extract meaningful insights, focusin
 
 ## Data
 
-The dataset used in this project contains information about athletes, the events they participated in, and the medals they won in the Olympic Games. The data includes the following columns:
+The dataset used in this project is sourced from [Kaggle](#https://Kaggle) and it contains information about athletes, the events they participated in, and the medals they won in the Olympic Games. The data includes the following columns:
 - `Name`: The name of the athlete.
 - `Sex`: The gender of the athlete.
 - `Age`: The age of the athlete.
@@ -44,4 +44,8 @@ This step focuses on analyzing the medal counts:
 
 ### 4. Visualization
 
-Visualizations like a bar plot is created to display the top 10 athletes by the number of medals won. 
+- Visualizations like a bar plot is created to display the top 10 athletes by the number of medals won.
+- A pie plot to display the top popular sports in Olympics.
+- A scatter plot to display the height vs wights of Olympic Medallist.
+- A bar plot to display the top athletes based on their medal counts.
+- A bar plot to display the top participating countries in Summer and Winter Seasons.

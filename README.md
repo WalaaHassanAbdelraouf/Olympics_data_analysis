@@ -45,6 +45,6 @@ This step focuses on analyzing the medal counts:
 ### 4. Visualization
 
 - Visualizations like a bar plot is created to display the top 10 athletes by the number of medals won.
-- A pie plot to display the top popular sports in Olympics.
+- A pie chart to display the top popular sports in Olympics.
 - A scatter plot to display the height vs wights of Olympic Medallist.
 - A bar plot to display the top participating countries in Summer and Winter Seasons.

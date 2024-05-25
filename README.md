@@ -6,7 +6,7 @@ This project analyzes Olympic Games data to extract meaningful insights, focusin
 
 ## Data
 
-The dataset used in this project is sourced from [Kaggle]([https://www.Kaggle.com](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?fbclid=IwAR3rNqMd6o2BtuNvD-23UV_Xv4Bw6BZpGmkQEyTm54l16sae5jxgGqIJjYY)) and it contains information about athletes, the events they participated in, and the medals they won in the Olympic Games. The data includes the following columns:
+The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?fbclid=IwAR3rNqMd6o2BtuNvD-23UV_Xv4Bw6BZpGmkQEyTm54l16sae5jxgGqIJjYY) and it contains information about athletes, the events they participated in, and the medals they won in the Olympic Games. The data includes the following columns:
 - `Name`: The name of the athlete.
 - `Sex`: The gender of the athlete.
 - `Age`: The age of the athlete.

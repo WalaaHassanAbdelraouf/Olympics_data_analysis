@@ -6,7 +6,7 @@ This project analyzes Olympic Games data to extract meaningful insights, focusin
 
 ## Data
 
-The dataset used in this project is sourced from [Kaggle](#https://Kaggle.com) and it contains information about athletes, the events they participated in, and the medals they won in the Olympic Games. The data includes the following columns:
+The dataset used in this project is sourced from [Kaggle](#https://www.Kaggle.com) and it contains information about athletes, the events they participated in, and the medals they won in the Olympic Games. The data includes the following columns:
 - `Name`: The name of the athlete.
 - `Sex`: The gender of the athlete.
 - `Age`: The age of the athlete.
